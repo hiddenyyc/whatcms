@@ -6,9 +6,9 @@ bash>> git clone https://github.com/TheKingOfDuck/whatcms.git
 bash>>cd whatcms
 
 bash>>python whatcms.py
-xxxx
-请输入需要识别的站点: www.freebuf.com
-正在识别中...
+
+ 请输入需要识别的站点: www.freebuf.com
+ 正在识别中...
 
  识别结果：wordpress
 
